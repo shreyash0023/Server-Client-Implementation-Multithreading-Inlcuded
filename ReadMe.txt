@@ -27,4 +27,5 @@ https://github.com/shreyash0023/Server-Client-Implementation-Multithreading-Inlc
 
 ## ![image](https://github.com/shreyash0023/Server-Client-Implementation-Multithreading-Inlcuded/issues/3#issue-370027097)
 
-## ![image]()
+<img width="847" alt="running client on terminal 404 error" src="https://user-images.githubusercontent.com/33309276/46935045-82b0f980-d01f-11e8-84f7-20f8006bfd2a.png">
+
