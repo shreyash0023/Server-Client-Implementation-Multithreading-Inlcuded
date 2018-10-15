@@ -23,8 +23,8 @@ How to run on browser:
 
 
 Client on terminal:
-## ![image](https://github.com/shreyash0023/Server-Client-Implementation-Multithreading-Inlcuded/issues/2#issue-370027037)
+https://github.com/shreyash0023/Server-Client-Implementation-Multithreading-Inlcuded/issues/3#issue-370027097
 
-## ![image]()
+## ![image](https://github.com/shreyash0023/Server-Client-Implementation-Multithreading-Inlcuded/issues/3#issue-370027097)
 
 ## ![image]()
