@@ -22,8 +22,8 @@ How to run on browser:
 		http://localhost:8111/someOtherfile.html -> This gives the 404 Not Found Error on Client side 
 
 
-
-## ![image]()
+Client on terminal:
+## ![image](https://github.com/shreyash0023/Server-Client-Implementation-Multithreading-Inlcuded/issues/2#issue-370027037)
 
 ## ![image]()
 
