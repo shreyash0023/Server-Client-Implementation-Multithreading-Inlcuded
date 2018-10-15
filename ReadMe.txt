@@ -1,7 +1,4 @@
-Name: Shreyash Shrivastava
-ID: 1001397477
-CLASS: CSE 4344
-Language: Python 2.7.15
+Language: Python 2.7.15 :: Anaconda, Inc.
 
 How to run server on terminal:
 	Go to the server.py directory 
