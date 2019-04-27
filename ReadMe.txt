@@ -1,5 +1,5 @@
 Language: Python 2.7.15 :: Anaconda, Inc.
-
+'''
 How to run server on terminal:
 	Go to the server.py directory 
 	type python Server.py 
@@ -20,5 +20,5 @@ How to run on browser:
 		http://localhost:8111/helloWorld.html -> This prints HelloWorld on the screen 
 			or
 		http://localhost:8111/someOtherfile.html -> This gives the 404 Not Found Error on Client side 
-
+'''
 
