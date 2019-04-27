@@ -23,3 +23,9 @@ Language: Python 2.7.15 :: Anaconda, Inc.
 		http://localhost:8111/someOtherfile.html -> This gives the 404 Not Found Error on Client side 
 ```
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
