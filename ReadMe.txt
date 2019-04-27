@@ -1,4 +1,5 @@
 Language: Python 2.7.15 :: Anaconda, Inc.
+
 ```
 How to run server on terminal:
 	Go to the server.py directory 
